@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="0101_cal_scores.c" />
     <ClCompile Include="0102_cal_time.c" />
+    <ClCompile Include="0103_seq_search.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
